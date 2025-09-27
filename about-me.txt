@@ -1,1 +1,6 @@
+My favorite programming languages are Python and JavaScript.
+<<<<<<< HEAD
 My favorite programming language is JavaScript.
+=======
+My favorite color is green.
+>>>>>>> feature-conflict
